@@ -1,3 +1,5 @@
+<h1>Test page!</h1>
+
 <p><?=lang('about.hello')?></p>
  
  <?= anchor($this->lang->switch_uri('fr'),'Display current page in French'); ?>
